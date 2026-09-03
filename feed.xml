@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Western Icelandic news and events</title>
+    <link>https://github.com/koster8-cpu/westernicelandic-events-feed</link>
+    <description>The feed will populate when the GitHub Actions workflow first runs.</description>
+    <language>en-ca</language>
+  </channel>
+</rss>
